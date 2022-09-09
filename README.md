@@ -3,10 +3,10 @@
 Fork this repo, then clone it to your computer. Edit the README.md file by adding your answers where there are ***??*** question marks
 
 ### Fork It ##
-1. Navigate to tonight's repo on _my_ GitHub: [final-challenge](https://github.com/zeromile/final-challenge)
+1. Navigate to tonight's repo on _my_ GitHub: [final-project](https://github.com/zeromile/final-project)
 2. "Fork" the repo
     - Click on the button that says "Fork" in the upper right hand corner
-3. Choose the owner (you) from the drop-down and leave the repo name as `final-challenge`
+3. Choose the owner (you) from the drop-down and leave the repo name as `final-project`
 4. Click the green "Create fork" button
 5. Copy the SSH “code” for the new repo: (this will be used when we clone the repo on our local computer)
     - Click the green button that says "code"
@@ -15,9 +15,9 @@ Fork this repo, then clone it to your computer. Edit the README.md file by addin
 5. Now, on your local machine, launch Git Bash
 6. Navigate to the `ceo-web-dev` folder:
     - In Bash: `cd ~/Desktop/ceo-web-dev/` (if your computer is using One Drive you will need to go to the `OneDrive` folder first)
-5. Clone the `final-challenge` repo:
+5. Clone the `final-project` repo:
     - In Bash: `git clone` + PASTE (right-click->paste) YOUR REPO CODE FROM STEP 5 ABOVE
-6. In VSCode navigate to the `final-challenge` folder and:
+6. In VSCode navigate to the `final-project` folder and:
     - Open your README.MD and answer the questions below
 
 
